@@ -1,0 +1,91 @@
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\bin\Debug\net7.0\appsettings.json
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.staticwebassets.runtime.json
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.exe
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.deps.json
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.runtimeconfig.json
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.dll
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.pdb
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.csproj.AssemblyReference.cache
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.AssemblyInfoInputs.cache
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.AssemblyInfo.cs
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.csproj.CoreCompileInputs.cache
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.RazorAssemblyInfo.cache
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.RazorAssemblyInfo.cs
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets\msbuild.AMS23_caroucel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets\msbuild.build.AMS23_caroucel.props
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AMS23_caroucel.props
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AMS23_caroucel.props
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\scopedcss\bundle\AMS23_caroucel.styles.css
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\scopedcss\projectbundle\AMS23_caroucel.bundle.scp.css
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.dll
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\refint\AMS23_caroucel.dll
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.pdb
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.genruntimeconfig.cache
+C:\Users\walte\OneDrive\Área de Trabalho\Fatec\Fatec_José_Arthur\2_ano\Programme_2_ano\AspnetMvc\AMS23_caroucel\obj\Debug\net7.0\ref\AMS23_caroucel.dll
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\appsettings.Development.json
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\appsettings.json
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.staticwebassets.runtime.json
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.exe
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.deps.json
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.runtimeconfig.json
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.dll
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.pdb
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.AssemblyInfoInputs.cache
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.AssemblyInfo.cs
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.csproj.CoreCompileInputs.cache
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.MvcApplicationPartsAssemblyInfo.cache
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.RazorAssemblyInfo.cache
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.RazorAssemblyInfo.cs
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets\msbuild.AMS23_caroucel.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets\msbuild.build.AMS23_caroucel.props
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AMS23_caroucel.props
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AMS23_caroucel.props
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets.pack.json
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets.build.json
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets.development.json
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\scopedcss\bundle\AMS23_caroucel.styles.css
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\scopedcss\projectbundle\AMS23_caroucel.bundle.scp.css
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.dll
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\refint\AMS23_caroucel.dll
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.pdb
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.genruntimeconfig.cache
+D:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\ref\AMS23_caroucel.dll
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\appsettings.Development.json
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\appsettings.json
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.staticwebassets.runtime.json
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.exe
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.deps.json
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.runtimeconfig.json
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.dll
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\bin\Debug\net7.0\AMS23_caroucel.pdb
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.GeneratedMSBuildEditorConfig.editorconfig
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.AssemblyInfoInputs.cache
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.AssemblyInfo.cs
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.csproj.CoreCompileInputs.cache
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.MvcApplicationPartsAssemblyInfo.cache
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.RazorAssemblyInfo.cache
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.RazorAssemblyInfo.cs
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets\msbuild.AMS23_caroucel.Microsoft.AspNetCore.StaticWebAssets.props
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets\msbuild.build.AMS23_caroucel.props
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AMS23_caroucel.props
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AMS23_caroucel.props
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets.pack.json
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets.build.json
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\staticwebassets.development.json
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\scopedcss\bundle\AMS23_caroucel.styles.css
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\scopedcss\projectbundle\AMS23_caroucel.bundle.scp.css
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.dll
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\refint\AMS23_caroucel.dll
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.pdb
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\AMS23_caroucel.genruntimeconfig.cache
+E:\2_ano\Programmers_2_ano\aspnetmvc\AMS23_caroucel\obj\Debug\net7.0\ref\AMS23_caroucel.dll

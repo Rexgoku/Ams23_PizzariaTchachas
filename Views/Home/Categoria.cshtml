@@ -1,0 +1,47 @@
+<partial name="_Carousel">
+@{
+    ViewData["Title"] = "CATEGORIA";
+}
+
+
+<head>
+      <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+      <script src="~/js/site.js" defer></script>
+     <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css"
+    />
+</head>
+
+<body>
+    <br>
+   <header>
+    <h1>@ViewData["Title"]</h1>
+    <div>
+        <input type="checkbox" class="change-theme" id="change-theme" />
+         <label class="label" for="change-theme">
+          <i class="bi bi-sun"></i>
+          <i class="bi bi-moon"></i>
+          <div class="ball"></div>
+          </label>
+    </div>
+   </header>
+  
+<form onsubmit="return salvar()">
+    <br>
+    <div class="input-group">
+    <input type="text" id="name" name="name" class="input-group_input" required/>
+    <label for="name" class="input-group_Label">Nome da Categoria</label>
+    </div>
+    <br>
+    <div class="input-group">
+    <input type="text" id="idC" name="idC" class="input-group_input" required/>
+    <label for="idC" class="input-group_Label">Codigo da Categoria</label>
+    </div>
+    <br>
+    <input type="checkbox" value="Sim" class="form-checked-input" id="aceite">
+    <label class="form-check-label" for="aceite">Aceito os termos.</label>
+    <br><br>
+    <button type="submit" class="glow-on-hover" >Cadastrar</button>
+</form>
+</body>
